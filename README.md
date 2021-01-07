@@ -1,1 +1,4 @@
-# Viettel_CodingTest
+# Viettel CodingTest
+
+## To run program:
+command: make main
